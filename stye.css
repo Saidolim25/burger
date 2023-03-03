@@ -1,0 +1,45 @@
+.img{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+
+#bottom{
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+#cutlet{
+    width: 150px;
+    height:100px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+#chesse{
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+#salat{
+    width:150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 40%;
+    background-color: #fff;
+}
+#tomato{
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+#burgertop{
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    margin-left: 40%;
+}
+ 
